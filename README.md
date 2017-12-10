@@ -17,5 +17,4 @@ Detailed implementation for the NN can be found in [my_answers.py](./my_answers.
 Figure below plots the prediction on the test data. It can be seen that the model predicts the number of users quite well but becomes off for the days from Dec 21 to 31. Reasones that this is the case can be:
 * It's winter time and less people tend to ride bike 
 * It's also holidays around Dec21 to 31 and therefore the number os users are not as ususal.
-
-![](images/cluster.png)
+![](images/predict.png)
